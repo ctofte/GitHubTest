@@ -7,5 +7,6 @@ public class Main {
         System.out.println("ss");
         System.out.println("Nogle der vil med i kantinen? Hilsen Flexx0.");
         System.out.println("Når vi lige kan køre programmet kan vi godt");
+        System.out.println("Okay, nice. Jeg er sulten hihi.");
     }
 }
