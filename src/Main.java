@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Nogle der vil med i kantinen? Hilsen Flexx0.");
         System.out.println("Når vi lige kan køre programmet kan vi godt");
         System.out.println("Okay, nice. Jeg er sulten hihi.");
+        System.out.println("grineren krølle er silver");
     }
 }
