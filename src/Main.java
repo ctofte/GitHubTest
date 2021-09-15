@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Når vi lige kan køre programmet kan vi godt");
         System.out.println("Okay, nice. Jeg er sulten hihi.");
         System.out.println("grineren krølle er silver");
+        System.out.println("der er pause nu alligevel");
     }
 }
